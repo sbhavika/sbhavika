@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=sbhavika&icon=8&color=1)](https://visitcount.itsvg.in)
-# 💫 About Me:
+
 # Hello 👋 I'm Bhavika,<br><br>CS student on the GitHub ride—keeping it chill, coding, and embracing the learning journey. Let's vibe and code together! 🚀💻<br>
 
 
@@ -7,12 +7,12 @@
   
 
 
-[![Email](https://img.shields.io/badge/-EMAIL-719FB0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbhavikarustagi@gmail.com?subject=[GitHub])
-[![Github](https://img.shields.io/badge/github-689683.svg?style=for-the-badge&logo=github)](https://www.github.com/sbhavika)
-[![Instagram](https://img.shields.io/badge/instagram-d18eb3.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sbhavikarustagi)
-[![Twitter](https://img.shields.io/badge/twitter-689683.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BhavikaRustagi)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-864879?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavika-rustagi-b3a233221/)
-[![Medium](https://img.shields.io/badge/medium-88a9bf.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sbhavikarustagi)
+[![Email](https://img.shields.io/badge/-EMAIL-0047AB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbhavikarustagi@gmail.com?subject=[GitHub])
+[![Github](https://img.shields.io/badge/github-0096FF.svg?style=for-the-badge&logo=github)](https://www.github.com/sbhavika)
+[![Instagram](https://img.shields.io/badge/instagram-89CFF0.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sbhavikarustagi)
+[![Twitter](https://img.shields.io/badge/twitter-0047AB.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BhavikaRustagi)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0096FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavika-rustagi-b3a233221/)
+[![Medium](https://img.shields.io/badge/medium-89CFF0.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sbhavikarustagi)
 
 ---
 

@@ -21,7 +21,8 @@
 <img src="https://github.com/sbhavika/sbhavika/blob/main/hello.png" img align="right" width=36% height=36%>
 <img src="https://github-readme-stats.vercel.app/api?username=sbhavika&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" img align="left"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbhavika&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
- 
+
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%23191970.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -42,7 +43,9 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23191970.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 
-
+ <div align="center">
+  <img height="400" src="https://github.com/sbhavika/sbhavika/blob/main/girlcode.gif"  />
+</div>
 
 ---
 191970

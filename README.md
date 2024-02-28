@@ -4,7 +4,6 @@
 
 
 <center>
-  
 
 
 [![Email](https://img.shields.io/badge/-EMAIL-191970?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbhavikarustagi@gmail.com?subject=[GitHub])

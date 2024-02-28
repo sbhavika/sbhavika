@@ -43,7 +43,7 @@
 
 
  <div align="center">
-  <img height="400" src="https://github.com/sbhavika/sbhavika/blob/main/girlcode.gif"  />
+  <img height="400" src="   "  />
 </div>
 
 ---

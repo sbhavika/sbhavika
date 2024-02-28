@@ -1,6 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=sbhavika&icon=8&color=1)](https://visitcount.itsvg.in)
 
-
 # Hello 👋 I'm Bhavika,<br><br>CS student on the GitHub ride—keeping it chill, coding, and embracing the learning journey. Let's vibe and code together! 🚀💻<br>
 
 

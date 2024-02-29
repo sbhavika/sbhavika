@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=sbhavika&icon=8&color=1)](https://visitcount.itsvg.in)
 
-# Hello 👋 I'm Bhavika,<br><br>CS student on the GitHub ride—keeping it chill, coding, and embracing the learning journey. Let's vibe and code together! 🚀💻<br>
+# Hello 👋 I'm Bhavika <br><br> CS student on the GitHub ride—keeping it chill and, embracing the learning journey. Let's vibe and code together! 🚀💻 <br>
 
 
 <center>
@@ -21,6 +21,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sbhavika&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" img align="left"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbhavika&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
+# Socials:
+[![Email](https://img.shields.io/badge/-EMAIL-191970?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbhavikarustagi@gmail.com?subject=[GitHub])
+[![Github](https://img.shields.io/badge/github-0096FF.svg?style=for-the-badge&logo=github)](https://www.github.com/sbhavika)
+[![Instagram](https://img.shields.io/badge/instagram-89CFF0.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sbhavikarustagi)
+[![Twitter](https://img.shields.io/badge/twitter-191970.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BhavikaRustagi)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0096FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavika-rustagi-b3a233221/)
+[![Medium](https://img.shields.io/badge/medium-89CFF0.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sbhavikarustagi)
 
 
 # 💻 Tech Stack:

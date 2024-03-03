@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=sbhavika&icon=8&color=1)](https://visitcount.itsvg.in)
 
 
-## Hello 👋 I'm Bhavika Rustagi
+## Hello <img src="https://github.com/sbhavika/sbhavika/blob/main/hello.gif" width="27px">      I'm Bhavika Rustagi
 A CSE student at SRMIST, Chennai, currently in my third year. Passionate about coding and constantly exploring new horizons. Let's connect, collaborate, and code some innovative solutions together! 🚀💻 
 
 - For any communications, feel free to reach me:

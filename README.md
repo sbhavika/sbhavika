@@ -29,8 +29,8 @@ A CSE student at SRMIST, Chennai, currently in my third year. Passionate about c
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbhavika&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 
+# 💻 Tech Stack: 
 
-# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%23191970.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23191970.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%23191970.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -50,7 +50,7 @@ A CSE student at SRMIST, Chennai, currently in my third year. Passionate about c
 
 
  <div align="center">
-  <img height="400" src="https://github.com/sbhavika/sbhavika/blob/main/girlcode.gif  "  />
+  <img height="300" src="https://github.com/sbhavika/sbhavika/blob/main/girlcode.gif  "  />
 </div>
 
 ---

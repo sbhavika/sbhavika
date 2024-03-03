@@ -50,7 +50,7 @@ A CSE student at SRMIST, Chennai, currently in my third year. Passionate about c
 
 
  <div align="center">
-  <img height="400" src="   "  />
+  <img height="400" src="https://github.com/sbhavika/sbhavika/blob/main/girlcode.gif  "  />
 </div>
 
 ---

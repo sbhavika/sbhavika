@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=sbhavika&icon=8&color=1)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/sbhavika/count.svg)
 
 
 ## Hello <img src="https://github.com/sbhavika/sbhavika/blob/main/hello.gif" width="27px">      I'm Bhavika Rustagi

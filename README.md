@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/sbhavika/count.svg)
+
 
 
 ## Hello <img src="https://github.com/sbhavika/sbhavika/blob/main/hello.gif" width="27px">      I'm Bhavika Rustagi

@@ -2,7 +2,7 @@
 
 
 ## Hello <img src="https://github.com/sbhavika/sbhavika/blob/main/hello.gif" width="27px">      I'm Bhavika Rustagi
-A CSE student at SRMIST, Chennai, currently in my third year. Passionate about coding and constantly exploring new horizons. Let's connect, collaborate, and code some innovative solutions together! 🚀💻 
+A CSE student at SRMIST, Chennai, currently in my final year. Passionate about coding and constantly exploring new horizons. Let's connect, collaborate, and code some innovative solutions together! 🚀💻 
 
 - For any communications, feel free to reach me:
    - Email: sbhavikarustagi@gmail.com
